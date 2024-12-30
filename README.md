@@ -5,12 +5,14 @@
 **Topic : 간단한 프로그래밍 구현**
 - 1_1.cpp : Array, Sum, Average
 - 1_2.cpp : Sort (Bubble Sort Ascending/Descending)
+- [1번 과제 Github URL](https://github.com/Qussong/study_Sparta_Cpp-Num1)<br>
 
 ### 📌2번 과제
 
 **Topic : OOP Summary**
 - 2_1.cpp : 추상클래스, 계층구조, 가상함수
 - 2_2.cpp : rand()
+- [2번 과제 Github URL](https://github.com/Qussong/study_Sparta_Cpp-Num2)<br>
 
 ### 📌3번 과제
 
