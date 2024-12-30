@@ -15,16 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp">
+    <ClCompile Include="1_1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Source1.cpp">
+    <ClCompile Include="1_2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Source2.cpp">
+    <ClCompile Include="2_1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Source3.cpp">
+    <ClCompile Include="2_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3_2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

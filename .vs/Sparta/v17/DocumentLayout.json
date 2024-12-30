@@ -3,20 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\kih09\\OneDrive\\Desktop\\study_C-Cpp-Unreal_Sparta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{880A61F0-3FAC-472A-BE3F-26F0F7B645D3}|main\\main.vcxproj|C:\\Users\\kih09\\OneDrive\\Desktop\\study_C-Cpp-Unreal_Sparta\\main\\Source3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{880A61F0-3FAC-472A-BE3F-26F0F7B645D3}|main\\main.vcxproj|solutionrelative:main\\Source3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{880A61F0-3FAC-472A-BE3F-26F0F7B645D3}|main\\main.vcxproj|C:\\Users\\kih09\\OneDrive\\Desktop\\study_C-Cpp-Unreal_Sparta\\main\\3_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{880A61F0-3FAC-472A-BE3F-26F0F7B645D3}|main\\main.vcxproj|solutionrelative:main\\3_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{880A61F0-3FAC-472A-BE3F-26F0F7B645D3}|main\\main.vcxproj|C:\\Users\\kih09\\OneDrive\\Desktop\\study_C-Cpp-Unreal_Sparta\\main\\Source2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{880A61F0-3FAC-472A-BE3F-26F0F7B645D3}|main\\main.vcxproj|solutionrelative:main\\Source2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{880A61F0-3FAC-472A-BE3F-26F0F7B645D3}|main\\main.vcxproj|C:\\Users\\kih09\\OneDrive\\Desktop\\study_C-Cpp-Unreal_Sparta\\main\\Source1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{880A61F0-3FAC-472A-BE3F-26F0F7B645D3}|main\\main.vcxproj|solutionrelative:main\\Source1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{880A61F0-3FAC-472A-BE3F-26F0F7B645D3}|main\\main.vcxproj|C:\\Users\\kih09\\OneDrive\\Desktop\\study_C-Cpp-Unreal_Sparta\\main\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{880A61F0-3FAC-472A-BE3F-26F0F7B645D3}|main\\main.vcxproj|solutionrelative:main\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +17,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,54 +25,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Source3.cpp",
-              "DocumentMoniker": "C:\\Users\\kih09\\OneDrive\\Desktop\\study_C-Cpp-Unreal_Sparta\\main\\Source3.cpp",
-              "RelativeDocumentMoniker": "main\\Source3.cpp",
-              "ToolTip": "C:\\Users\\kih09\\OneDrive\\Desktop\\study_C-Cpp-Unreal_Sparta\\main\\Source3.cpp",
-              "RelativeToolTip": "main\\Source3.cpp",
-              "ViewState": "AQIAAF4AAAAAAAAAAAAwwHsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-23T15:31:44.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Source2.cpp",
-              "DocumentMoniker": "C:\\Users\\kih09\\OneDrive\\Desktop\\study_C-Cpp-Unreal_Sparta\\main\\Source2.cpp",
-              "RelativeDocumentMoniker": "main\\Source2.cpp",
-              "ToolTip": "C:\\Users\\kih09\\OneDrive\\Desktop\\study_C-Cpp-Unreal_Sparta\\main\\Source2.cpp",
-              "RelativeToolTip": "main\\Source2.cpp",
-              "ViewState": "AQIAABQAAAAAAAAAAAAwwCgAAAAUAAAA",
+              "Title": "delete_scalar.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwCQAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-23T15:31:19.26Z",
+              "WhenOpened": "2024-12-30T03:05:50.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Source1.cpp",
-              "DocumentMoniker": "C:\\Users\\kih09\\OneDrive\\Desktop\\study_C-Cpp-Unreal_Sparta\\main\\Source1.cpp",
-              "RelativeDocumentMoniker": "main\\Source1.cpp",
-              "ToolTip": "C:\\Users\\kih09\\OneDrive\\Desktop\\study_C-Cpp-Unreal_Sparta\\main\\Source1.cpp",
-              "RelativeToolTip": "main\\Source1.cpp",
-              "ViewState": "AQIAACsAAAAAAAAAAAAwwEgAAAABAAAA",
+              "DocumentIndex": 0,
+              "Title": "3_2.cpp",
+              "DocumentMoniker": "C:\\Users\\kih09\\OneDrive\\Desktop\\study_C-Cpp-Unreal_Sparta\\main\\3_2.cpp",
+              "RelativeDocumentMoniker": "main\\3_2.cpp",
+              "ToolTip": "C:\\Users\\kih09\\OneDrive\\Desktop\\study_C-Cpp-Unreal_Sparta\\main\\3_2.cpp",
+              "RelativeToolTip": "main\\3_2.cpp",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAQwFAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-23T15:30:55.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\kih09\\OneDrive\\Desktop\\study_C-Cpp-Unreal_Sparta\\main\\Source.cpp",
-              "RelativeDocumentMoniker": "main\\Source.cpp",
-              "ToolTip": "C:\\Users\\kih09\\OneDrive\\Desktop\\study_C-Cpp-Unreal_Sparta\\main\\Source.cpp",
-              "RelativeToolTip": "main\\Source.cpp",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAwwCMAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-23T15:24:13.349Z",
+              "WhenOpened": "2024-12-30T01:23:26.167Z",
               "EditorCaption": ""
             }
           ]

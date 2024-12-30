@@ -1,5 +1,4 @@
-﻿  Source3.cpp
-C:\Users\kih09\OneDrive\Desktop\Sparta\main\Source3.cpp(81,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  main.vcxproj -> C:\Users\kih09\OneDrive\Desktop\Sparta\x64\Debug\main.exe
+﻿  3_2.cpp
+  main.vcxproj -> C:\Users\kih09\OneDrive\Desktop\study_C-Cpp-Unreal_Sparta\x64\Debug\main.exe
   'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
   배치 파일이 아닙니다.
