@@ -21,3 +21,10 @@
 - 3_2.cpp : vector 심화 구현 (sortData, 복사 생성자, 대입연사자 오버로딩, etc..)
 - [3번 과제 Github URL](https://github.com/Qussong/study_Sparta_Cpp-Num3)<br>
 - [3번 과제 Velog](https://velog.io/@kih0976/3W-1D-TIL-0ebir8rg)<br>
+
+### 📌4번 과제
+
+**Topic : Template & STL**
+- 4_1.cpp : 도서관 관리 시스템 구현
+- 4_2.cpp : 도서관 책 대여 시스템 구현 (std::unordered_map)
+- [4번 과제 Github URL](https://github.com/Qussong/study_Sparta_Cpp-Num4)<br>

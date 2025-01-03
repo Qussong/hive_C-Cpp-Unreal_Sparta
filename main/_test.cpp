@@ -1,4 +1,3 @@
-
 #include <iostream>
 
 #include <string>
@@ -7,11 +6,19 @@
 
 using namespace std;
 
-string solution(vector<string> seoul) {
-    string answer = "";
+vector<int> solution(vector<int> arr) {
+    vector<int> answer;
 
-    auto idx = std::find(seoul.begin(), seoul.end(), "Kim");
-    answer = "김서방은 " + static_cast<int>(std::distance(seoul.begin(), idx)) + "에 있다.";
+    int length = arr.size();
+
+    if (length > 1)
+    {
+
+    }
+    else
+    {
+        answer.push_back(-1);
+    }
 
     return answer;
 }
@@ -19,6 +26,5 @@ string solution(vector<string> seoul) {
 int main()
 {
 
-
-    return 0;
+	return 0;
 }
