@@ -30,7 +30,16 @@
 - [4번 과제 Github URL](https://github.com/Qussong/study_Sparta_Cpp-Num4)<br>
 
 ### 📌디자인 패턴 학습
+
+**Topic : 디자인 패턴 학습**
 - 생성 패턴(Creational) : Singleton 
 - 구조 패턴(Structual) : Decorator
 - 행동 패턴(Behavioral) : Observer
 - [디자인패턴 학습 Github URL](https://github.com/Qussong/study_DesignPattern)
+
+### 📌4번 과제
+
+**Topic : Unreal Engine 활용 프로그램 제작**
+- essential : Actor 랜덤 이동 및 좌표 출력
+- challenge : Actor 이동시 이벤트 랜덤 발생 및 이동거리 출력
+- [5번 과제 Github URL](https://github.com/Qussong/study_Sparta_Unreal-Num5)
