@@ -28,3 +28,9 @@
 - 4_1.cpp : 도서관 관리 시스템 구현
 - 4_2.cpp : 도서관 책 대여 시스템 구현 (std::unordered_map)
 - [4번 과제 Github URL](https://github.com/Qussong/study_Sparta_Cpp-Num4)<br>
+
+### 📌디자인 패턴 학습
+- 생성 패턴(Creational) : Singleton 
+- 구조 패턴(Structual) : Decorator
+- 행동 패턴(Behavioral) : Observer
+- [디자인패턴 학습 Github URL](https://github.com/Qussong/study_DesignPattern)
