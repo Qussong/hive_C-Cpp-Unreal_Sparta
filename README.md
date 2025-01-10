@@ -43,3 +43,13 @@
 - essential : Actor 랜덤 이동 및 좌표 출력
 - challenge : Actor 이동시 이벤트 랜덤 발생 및 이동거리 출력
 - [5번 과제 _Github URL [Sparta_Unreal-Num5]_](https://github.com/Qussong/study_Sparta_Unreal-Num5)
+
+### 📌Team Project
+
+**Topic : Text RPG**
+
+- essential : 아래 UML 구현
+<img src="/img/6_TeamProjectUML.png" width="">
+- challenge : 자율적 추가 기능 구현현
+- My Role : 프로젝트 리더, 팀 브랜치 관리, 아이템 구현, 서기기
+- [팀 프로젝트 _Github URL [TextRPG_Sparta_Team10]_](https://github.com/Qussong/project_TextRPG_Sparta_Team10)
